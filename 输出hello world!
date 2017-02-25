@@ -1,0 +1,6 @@
+var
+  a:integer;
+begin
+  writeln(' hello');
+  writeln('  world!');
+end.
